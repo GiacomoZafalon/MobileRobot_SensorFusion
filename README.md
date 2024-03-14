@@ -3,9 +3,9 @@ This project has been developed for the course of "Robotics Perception and Actio
 
 ## Authors
 - Calai Simone
-- Meroli Alessandro
-- Sevenhuijsen Merlijn
-- Zafalon Giacomo
+- [Meroli Alessandro](https://github.com/Meroli00)
+- [Sevenhuijsen Merlijn](https://github.com/SevenhuijsenM)
+- [Zafalon Giacomo](https://github.com/GiacomoZafalon)
 
 ## Setup
 - Automated wheelchair controlled manually
