@@ -35,7 +35,7 @@ With the tracker we had to work with numerous reference frames to be able to exp
 </figure>
 
 ## Trajectory computation
-By placing the sensor on the wheels we were able to compute the coordinates of the middle point "e", after this operation we could place the tracker "s" wherever on the robot and perform any trajectory and still be able to track the position of "e", by roto-translating the vector connecting "e" and "s" (<span style="text-decoration:overline">es</span>) based on the data acquired from the tracker.
+By placing the sensor on the wheels we were able to compute the coordinates of the middle point "e", after this operation we could place the tracker "s" wherever on the robot and perform any trajectory and still be able to track the position of "e", by roto-translating the vector connecting "e" and "s" (s_e) based on the data acquired from the tracker.
 <figure style="text-align: center">
 <img src="imgs/traj_track.png" alt="" width="600px">
 <figcaption>   </figcaption>
