@@ -14,8 +14,8 @@ This project has been developed for the course of "Robotics Perception and Actio
 - HTC Base Stations 1.0 located in the room
 
 <figure style="text-align: center">
-<img src="imgs/robot.png" alt="Setup" width="300px">
-<figcaption> Setup  </figcaption>
+<img src="imgs/robot.png" alt="" width="300px">
+<figcaption>  </figcaption>
 </figure>
 
 ### Encoders
@@ -30,15 +30,15 @@ The output of the HTC Vive Tracker 1.0 is given by a 7 element array containing 
 
 With the tracker we had to work with numerous reference frames to be able to express the coordinates in the same reference frame as the one used by the encoders, so the middle point of the wheel-axis. In the image below the different frames can be seen, where "e" is the middle point of the wheel-axis, "s" is the tracker, "a" is the main base station, and "o" is a point in space selected to be the final absolute reference frame  
 <figure style="text-align: center">
-<img src="imgs/ref_frames.jpg" alt="Reference frames" width="400px">
-<figcaption> Reference frames  </figcaption>
+<img src="imgs/ref_frames.jpg" alt="" width="400px">
+<figcaption>  </figcaption>
 </figure>
 
 ## Trajectory computation
 By placing the sensor on the wheels we were able to compute the coordinates of the middle point "e", after this operation we could place the tracker "s" wherever on the robot and perform any trajectory and still be able to track the position of "e", by rototranslating the vector connecting "e" and "s" (<span style="text-decoration:overline">es</span>) based on the data acquired from the tracker.
 <figure style="text-align: center">
-<img src="imgs/traj_track.png" alt="Different trajectories" width="600px">
-<figcaption> Different trajectories  </figcaption>
+<img src="imgs/traj_track.png" alt="" width="600px">
+<figcaption> </figcaption>
 </figure>
 
 ## Final result
