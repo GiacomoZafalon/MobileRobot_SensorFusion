@@ -2,7 +2,7 @@
 This project has been developed for the course of "Robotics Perception and Action" held at the University of Trento, Italy. It consists of a sensor fusion algorithm to estimate the actual position of the robot, given encoders and an HTC tracker implemented in Matlab.
 
 ## Authors
-- Calai Simone
+- [Calai Simone](https://github.com/simonecalai)
 - [Meroli Alessandro](https://github.com/Meroli00)
 - [Sevenhuijsen Merlijn](https://github.com/SevenhuijsenM)
 - [Zafalon Giacomo](https://github.com/GiacomoZafalon)
