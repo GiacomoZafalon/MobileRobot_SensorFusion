@@ -51,4 +51,4 @@ We computed the uncertainty of both sensors following the instructions described
 
 ## References
 [1] De Cecco, Mariolino, Luca Baglivo, and Francesco Angrilli. "Real-time uncertainty estimation of autonomous guided vehicle trajectory taking into account correlated and uncorrelated effects." IEEE Transactions on Instrumentation and Measurement 56.3 (2007): 696-703, doi: [10.1109/TIM.2007.894904](https://ieeexplore.ieee.org/abstract/document/4200988).<br>
-[2] De Cecco, Mariolino. "Sensor fusion of inertial-odometric navigation as a function of the actual manoeuvres of autonomous guided vehicles." Measurement Science and Technology 14.5 (2003): 643, doi [10.1088/0957-0233/14/5/316](https://iopscience.iop.org/article/10.1088/0957-0233/14/5/316/meta).
+[2] De Cecco, Mariolino. "Sensor fusion of inertial-odometric navigation as a function of the actual manoeuvres of autonomous guided vehicles." Measurement Science and Technology 14.5 (2003): 643, doi: [10.1088/0957-0233/14/5/316](https://iopscience.iop.org/article/10.1088/0957-0233/14/5/316/meta).
